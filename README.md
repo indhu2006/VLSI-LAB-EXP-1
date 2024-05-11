@@ -1,12 +1,15 @@
 # VLSI-LAB-EXPERIMENTS
 AIM:
+
 To simulate and synthesis Logic Gates,Adders and Subtractor using vivado 2023.2.
 
 
 APPARATUS REQUIRED:
+
 vivado 2023.2
 
 PROCEDURE:
+
 STEP:1 Start the vivado software, Select and Name the New project.
 
 STEP:2 Select the device family, device, package and speed.
